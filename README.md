@@ -53,7 +53,7 @@ if (rho<1):
     print("Probability that the system is empty : %0.2f "%(1-rho))
 else:
     print("Warning! Objects Over flow will happen in the conveyor")
-    ```
+ ```
 
 ## Output :
 ![image](https://github.com/MEENA155/Muttiple-capacity-with-infinite-capacity/assets/94677128/4144125b-f0d4-46b7-84d8-ded5e2622ebd)
